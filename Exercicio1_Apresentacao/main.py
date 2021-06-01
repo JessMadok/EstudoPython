@@ -1,0 +1,1 @@
+print("Jessica\n25\nMascara da Morte\nAgua mole em pedra dura tanto bate até que fura")
